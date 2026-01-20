@@ -8,7 +8,7 @@
     "test": "node test.js"
   },
   "dependencies": {
-    "hello-lib": "git+https://github.com/sombily/hello-lib-lbrahima.git"
+    "hello-lib": "github:sombily/hello-lib-lbrahima""
   },
   "keywords": [],
   "license": "MIT"
